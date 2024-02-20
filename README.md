@@ -1,6 +1,6 @@
 # Phishing simulation
 
-In this project I will set up a Gophish campaign that will create a very convincing landing page that asks for username and password:
+In this project I will set up a Gophish campaign that will create a very convincing Landing Page that asks for username and password:
 
 ![Screenshot 2024-02-19 at 10 27 38](https://github.com/redjules/Phishing-simulation/assets/106017493/035ee073-c3f8-4dd1-a082-dfa82497f2a3)
 
@@ -20,7 +20,7 @@ we set a profile:
 
 ![Screenshot 2024-02-19 at 10 31 28](https://github.com/redjules/Phishing-simulation/assets/106017493/e2511a4a-4635-487a-8630-95485efa1d4b)
 
-we sent a test email:
+we send a test email:
 
 ![Screenshot 2024-02-19 at 10 34 40](https://github.com/redjules/Phishing-simulation/assets/106017493/13b115dd-fc21-4feb-88c7-7605887346ce)
 
