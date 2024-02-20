@@ -1,6 +1,6 @@
 # Phishing simulation
 
-In this project I will set up a Gophish campaign that will create a very convincing landling page that asks for username and password:
+In this project I will set up a Gophish campaign that will create a very convincing landing page that asks for username and password:
 
 ![Screenshot 2024-02-19 at 10 27 38](https://github.com/redjules/Phishing-simulation/assets/106017493/035ee073-c3f8-4dd1-a082-dfa82497f2a3)
 
@@ -68,7 +68,7 @@ and then a page not found appears!:
 
 ![Screenshot 2024-02-19 at 10 42 45](https://github.com/redjules/Phishing-simulation/assets/106017493/444064bb-aaaa-475c-a7bd-463079b98ab9)
 
-...but we go back to gophish and we have a new entry:
+... but we go back to Gophish and we have a new entry:
 
 ![Screenshot 2024-02-19 at 10 43 32](https://github.com/redjules/Phishing-simulation/assets/106017493/e64a1052-ee23-45d5-bff5-0d761592667a)
 
